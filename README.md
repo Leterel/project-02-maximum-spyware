@@ -43,7 +43,7 @@ signature and alignment. See [PROGRESS.md](PROGRESS.md) for the actual test scop
 
 ## Install and use
 
-[Download APK](https://github.com/Leterel/maximum-spyware/releases/tag/v0.2.2)
+[Download APK](https://github.com/Leterel/project-02-maximum-spyware/releases/tag/v0.2.2)
 (public repository).
 
 Release 0.2.2 targets API 36 and increments versionCode to 4. The downloadable
