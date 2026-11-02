@@ -84,3 +84,7 @@ their state and session; a new scan after restoration worked. See
 [PROCESS-DEATH-VERIFICATION.md](PROCESS-DEATH-VERIFICATION.md). Actual low-memory
 pressure, reboots, manufacturer background restrictions and other Android
 versions remain untested.
+
+## Entwicklung und Übergabe
+
+[AGENTS.md](AGENTS.md) bündelt den Einstieg für Entwickler und KI-Agenten; [TESTING.md](TESTING.md) nennt reproduzierbare Prüfungen und deren Grenzen. Der aktuelle Übergabestand steht in [HANDOFF.md](HANDOFF.md).
